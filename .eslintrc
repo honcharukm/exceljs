@@ -12,7 +12,10 @@
     "linebreak-style": "off",
     "comma-dangle": "off",
     "eol-last": "off",
-    "require-jsdoc": "off"
+    "require-jsdoc": "off",
+    "quotes": "off",
+    "operator-linebreak": "off",
+    "no-trailing-spaces": "off"
   },
   "extends": [
     "eslint:recommended",
